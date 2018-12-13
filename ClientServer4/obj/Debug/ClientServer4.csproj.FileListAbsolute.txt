@@ -1,0 +1,10 @@
+C:\Users\mikae\OneDrive\Offentligt\VS2017\ClientServer4\ClientServer4\bin\Debug\ClientServer4.exe.config
+C:\Users\mikae\OneDrive\Offentligt\VS2017\ClientServer4\ClientServer4\bin\Debug\ClientServer4.exe
+C:\Users\mikae\OneDrive\Offentligt\VS2017\ClientServer4\ClientServer4\bin\Debug\ClientServer4.pdb
+C:\Users\mikae\OneDrive\Offentligt\VS2017\ClientServer4\ClientServer4\obj\Debug\ClientServer4.csprojAssemblyReference.cache
+C:\Users\mikae\OneDrive\Offentligt\VS2017\ClientServer4\ClientServer4\obj\Debug\ClientServer4.Properties.Resources.resources
+C:\Users\mikae\OneDrive\Offentligt\VS2017\ClientServer4\ClientServer4\obj\Debug\ClientServer4.csproj.GenerateResource.cache
+C:\Users\mikae\OneDrive\Offentligt\VS2017\ClientServer4\ClientServer4\obj\Debug\ClientServer4.csproj.CoreCompileInputs.cache
+C:\Users\mikae\OneDrive\Offentligt\VS2017\ClientServer4\ClientServer4\obj\Debug\ClientServer4.exe
+C:\Users\mikae\OneDrive\Offentligt\VS2017\ClientServer4\ClientServer4\obj\Debug\ClientServer4.pdb
+C:\Users\mikae\OneDrive\Offentligt\VS2017\ClientServer4\ClientServer4\obj\Debug\ClientServer4.Form1.resources
